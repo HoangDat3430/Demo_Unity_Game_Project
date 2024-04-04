@@ -3,4 +3,4 @@ This is a 3D puzzle game. Players have to control the chef to move and prepare d
 
 Please clone this repository and open project by Unity Hub to check it out (I used Unity Editor ver 2022.2.12f1 on my PC during developing process)
 # Playable Version for PC
-If you want to try my demo, please check: https://drive.google.com/drive/folders/1RKSAlv8hRnct2KzA5O_kXCUYNi4w-ve8
+If you want to try my demo, please check: [https://drive.google.com/drive/folders/1RKSAlv8hRnct2KzA5O_kXCUYNi4w-ve8](https://drive.google.com/file/d/1tR7XQGoNJVEQjqeLBiDzSz0tbAuRdKhu/view?usp=drive_link)
